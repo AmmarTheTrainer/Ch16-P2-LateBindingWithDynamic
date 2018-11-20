@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch16-P2-LateBindingWithDynamic", "Ch16-P2-LateBindingWithDynamic\Ch16-P2-LateBindingWithDynamic.csproj", "{FCFBC208-8435-4C58-B318-7E07057F8106}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{EBDEAA92-7E9D-4D11-8AE7-539F2BECF7A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FCFBC208-8435-4C58-B318-7E07057F8106}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCFBC208-8435-4C58-B318-7E07057F8106}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCFBC208-8435-4C58-B318-7E07057F8106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBDEAA92-7E9D-4D11-8AE7-539F2BECF7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDEAA92-7E9D-4D11-8AE7-539F2BECF7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDEAA92-7E9D-4D11-8AE7-539F2BECF7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDEAA92-7E9D-4D11-8AE7-539F2BECF7A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
